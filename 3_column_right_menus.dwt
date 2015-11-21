@@ -1,6 +1,4 @@
-<html xmlns="http://www.w3.org/1999/xhtml">
-
-<!-- #BeginTemplate "3_column_right_menus.dwt" -->
+<html>
 
 <head>
 <meta http-equiv="Content-Language" content="en-us">
@@ -10,7 +8,6 @@
 <meta name="description" content="Here is where you put a short sentence or two describing this page and  it's goals">
 <title>UmuTech | Home</title>
 <style type="text/css">
-
 .auto-style1 {
 	margin-right: 0px;
 }
@@ -140,25 +137,41 @@ small electronic projects as well as mathematical guides. Welcome to UmuTech!</s
       </td>
       <td width="654" height="524" valign="top" bgcolor="#FEFEFE">
         <!-- #BeginEditable "Main_1" -->
-        <p align="center">
-		<span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: x-large; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(254, 254, 254);">
-		Hello and Welcome!</span></p>
+        <p align="center"><b><font face="Arial" size="5">This would be the title
+        of the page</font></b>.</p>
   </center>
-      <p style="text-align: center">&nbsp;<b style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-size: medium; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(254, 254, 254);"><font size="2"><span class="auto-style4" style="font-family: Arial, Helvetica, sans-serif;">The 
-	  site has finally launched and I'm trying to make everything work still so 
-	  it' still a working progress, Make sure you book mark this site and it 
-	  should be near-perfect in a few weeks or so.</span></font></b></p>
-		<p style="text-align: center">
-		<img alt="" height="337" src="Under_Con/Con_Notice.PNG" width="530">&nbsp;</p>
-      <p style="text-align: center">&nbsp;&nbsp;&nbsp;&nbsp;
-	  <span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: small; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(254, 254, 254);">
-	  You'll expect tutorials on Maths and Electronics which subside into 
-	  software and hardware. I'm sure most of you might enjoy it but whilst I 
-	  build this, please subscribe to my YouTube Channel where a link is located 
-	  on the right hand side.</span></p>
-		<p style="text-align: center">
-		<span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: medium; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(254, 254, 254);">
-		Thanks for checking out this site and please come back later :)</span></p>
+      <p align="left">     <b><font size="2"><font face="Arial">Here is where you could put the
+      main text and content of your site.  Include a couple paragraphs
+      describing your site and it's goals.  Without sounding stupid, try to
+      include as many of your keywords as you can.  This will help with
+      your search engine rankings</font>.</font></b></p>
+      <div align="center">
+        <center>
+        <table border="1" cellpadding="3" cellspacing="1" width="486" height="384">
+          <tr>
+            <td width="232" height="184" valign="top" align="center" bgcolor="#FFFFFF">Placing
+              a graphic in this square could increase the attractiveness of your
+              site.</td>
+            <td width="232" height="184" valign="top" align="center" bgcolor="#FFFFFF">You
+              could add a description of the graphic to the left, list your
+              products, or special events.</td>
+          </tr>
+          <tr>
+            <td width="232" height="180" valign="top" align="center" bgcolor="#FFFFFF">Add
+              more text here or whatever.  You are probably getting the
+              hang of it now.</td>
+            <td width="232" height="180" valign="top" align="center" bgcolor="#FFFFFF">If
+              you are going to add graphics to this square, stagger the images
+              to be in opposite squares.</td>
+          </tr>
+        </table>
+        </center>
+      </div>
+      <p>     Add a closing paragraph that contains the
+      clincher. If you are selling a product, here is where you can put the
+      reason why the potential buyer cannot live without it.  A testimonial
+      or 2 would be great.   Or.... just pop a banner down here and
+      earn some extra money. </p>
       <!-- #EndEditable -->
     </td>
   <center>
@@ -193,7 +206,5 @@ small electronic projects as well as mathematical guides. Welcome to UmuTech!</s
 </div>
 
 </body>
-
-<!-- #EndTemplate -->
 
 </html>
