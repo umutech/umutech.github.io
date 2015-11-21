@@ -44,7 +44,7 @@
     <tr>
       <td valign="top" align="center" class="auto-style2" style="width: 786; height: 66">
 	  <a href="index.html">
-	  <img height="66" src="../Master/Header/HeaderLogoSampled.png" width="786" class="auto-style5"></a></td>
+	  <img height="66" src="Master/Header/HeaderLogoSampled.png" width="786" class="auto-style5"></a></td>
     </tr>
   </table>
   </center>
@@ -185,7 +185,7 @@ small electronic projects as well as mathematical guides. Welcome to UmuTech!</s
             <tr>
               <td height="256" width="105" bgcolor="#E8E8EA" valign="top" align="center">
 			  <a href="http://youtube.com/tech2roll">
-			  <img alt="" class="auto-style5" height="282" src=".../Home/Side-Panel/YouTube.png" width="111"></a></td>
+			  <img alt="" class="auto-style5" height="251" src="Home/Side-Panel/YouTube.png" width="103"></a></td>
             </tr>
           </table>
         </div>
@@ -203,7 +203,7 @@ small electronic projects as well as mathematical guides. Welcome to UmuTech!</s
       <td width="759" colspan="3" bgcolor="#BBBBC1" style="height: 4px">
         <p align="center">
 		<span style="color: rgb(0, 0, 0); font-size: x-small; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(187, 187, 193);" class="auto-style6">
-		Copyright 2015 © TheTechnoGuy</span></td>
+		Copyright 2015, Belongs to <em>TheTechnoGuy</em></span></td>
     </tr>
     </table>
   </center>
