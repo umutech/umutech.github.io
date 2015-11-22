@@ -25,22 +25,6 @@ table.MsoTableGrid
 .auto-style1 {
 	font-family: Arial, Helvetica, sans-serif;
 }
-.auto-style3 {
-	border-width: 0;
-	text-align: center;
-}
-.auto-style4 {
-	background-color: #FFFFFF;
-	font-size: large;
-}
-.auto-style5 {
-	border-width: 0px;
-	margin-right: 2px;
-}
-.auto-style6 {
-	border-width: 0px;
-	font-family: Arial, Helvetica, sans-serif;
-}
 .auto-style7 {
 	border-width: 1px;
 	font-family: Arial, Helvetica, sans-serif;
@@ -60,22 +44,43 @@ table.MsoTableGrid
 	border-width: 1px;
 	background-color: #FFFFFF;
 }
+.auto-style11 {
+	background-color: #FFFFFF;
+}
+.auto-style12 {
+	border-width: 0;
+}
+.auto-style13 {
+	border-width: 0px;
+}
+.auto-style16 {
+	color: #000000;
+}
+.auto-style17 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+}
+.auto-style19 {
+	text-decoration: none;
+}
 </style>
 </head>
 
 <body style="background-image: url('MasterPage/Images/background.png')">
 
-<table align="center" border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-style: none; border-color: inherit; border-width: 0; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; margin-bottom: 0px;">
+<p class="MsoNormal" style="font-family: Arial, Helvetica, sans-serif; text-align: center">
+<table align="center" border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-width: 0">
 	<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">
-		<td class="auto-style3" style="border-style: solid; border-color: windowtext; width: 421pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 20px;">
+		<td class="auto-style12" style="border-style: solid; border-color: windowtext; width: 848pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 78px;" valign="top">
 		<a href="index.html">
-		<img alt="" class="auto-style6" height="89" src="MasterPage/Images/Header.png" width="1020" /></a></td>
+		<img alt="" class="auto-style13" height="149" src="MasterPage/Images/Header1.png" width="1140" /></a></td>
 	</tr>
 </table>
-<p class="MsoNormal" style="font-family: Arial, Helvetica, sans-serif; text-align: center">
-<strong class="auto-style4" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px;">
-A site of software, hardware and more. Tutorials to small electronic projects as 
-well as mathematical guides. Welcome to UmuTech!</strong></p>
+</p>
+<p class="MsoNormal" style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: large; color: #000000">
+<strong><span class="auto-style11">&nbsp;A site of software, hardware and more. 
+Tutorials to small electronic projects as well as mathematical guides. Welcome 
+to UmuTech! </span></strong><o:p></o:p></p>
 <p class="MsoNormal">
 <table align="center" border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-style: solid; margin-top: 0px">
 	<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
@@ -105,16 +110,19 @@ well as mathematical guides. Welcome to UmuTech!</strong></p>
 	</tr>
 	<tr style="mso-yfti-irow: 1">
 		<td style="width: 134pt; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 267px; border-top-color: inherit; border-left-style: solid; border-left-color: windowtext; border-right-style: solid; border-right-color: windowtext; border-bottom-style: solid; border-bottom-color: windowtext;" valign="top" class="auto-style8">
-		<img alt="" class="auto-style1" height="16" src="MasterPage/Images/bullet.gif" width="24" /><span class="auto-style1">
-		<strong><a href="index.html">Home Page</a><br />
-		<img alt="" class="auto-style1" height="16" src="MasterPage/Images/bullet.gif" width="24" />
-		<a href="con_edit.html">SysAdmin_Login</a><br />
+		<span class="auto-style1">
+		<strong>
+		<img alt="" class="auto-style17" height="13" src="MasterPage/Images/bullet.gif" width="24" /></strong>
+		<strong><a href="index.html" class="auto-style19">
+		<span class="auto-style16">Home Page</span></a><br class="auto-style16" />
+		<img alt="" class="auto-style17" height="13" src="MasterPage/Images/bullet.gif" width="24" />
+		<a href="con_edit.html" class="auto-style19"><span class="auto-style16">SysAdmin_Login</span></a><br />
 		</strong></span></td>
 	</tr>
 	<tr style="mso-yfti-irow:2">
 		<td style="width: 134pt; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 304px; border-top-color: inherit; border-left-style: solid; border-left-color: windowtext; border-right-style: solid; border-right-color: windowtext; border-bottom-style: solid; border-bottom-color: windowtext;" valign="top" class="auto-style9">
 		<a href="http://youtube.com/tech2roll">
-		<img alt="" height="349" src="MasterPage/Images/YouTube.png" width="174" class="auto-style5" /></a></td>
+		<img alt="" class="auto-style13" height="345" src="MasterPage/Images/side_yt.png" width="185" /></a></td>
 	</tr>
 	<tr style="mso-yfti-irow: 3; mso-yfti-lastrow: yes">
 		<td class="auto-style7" colspan="2" style="mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 18px; border-top-color: inherit; border-left-style: solid; border-left-color: windowtext; border-right-style: solid; border-right-color: windowtext; border-bottom-style: solid; border-bottom-color: windowtext;" valign="top">
@@ -122,9 +130,8 @@ well as mathematical guides. Welcome to UmuTech!</strong></p>
 	</tr>
 	<tr style="mso-yfti-irow: 3; mso-yfti-lastrow: yes">
 		<td class="auto-style7" colspan="2" style="mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 18px; border-top-color: inherit; border-left-style: solid; border-left-color: windowtext; border-right-style: solid; border-right-color: windowtext; border-bottom-style: solid; border-bottom-color: windowtext;" valign="top">
-		<strong>The website may look dull, I done that on purpose so it loads 
-		fast. This site has no tracking cookies, I know this because I coded 
-		this myself :)</strong></td>
+		No Tracking Cookies, No adverts, Freshly Programmed. <em>What more can 
+		you ask for?</em></td>
 	</tr>
 </table>
 </p>
