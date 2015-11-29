@@ -51,14 +51,10 @@ table.MsoTableGrid
 .auto-style11 {
 	background-color: #000000;
 }
-.auto-style12 {
-	border-width: 0;
-}
 .auto-style13 {
 	border-width: 0px;
 }
 .auto-style14 {
-	border-width: 0px;
 	vertical-align: middle;
 }
 </style>
@@ -97,14 +93,7 @@ function FP_getObjectByID(id,o) {//v1.0
 <body style="background-image: url('MasterPage/Images/background_xmas.png')" onload="FP_preloadImgs(/*url*/'MasterPage/Click Over/about_yes.png',/*url*/'MasterPage/Click Over/blog_yes.png',/*url*/'MasterPage/Click Over/projects yes.png',/*url*/'MasterPage/Click Over/XEB_yes.png',/*url*/'MasterPage/Click Over/subtut_yes.png')">
 
 <p class="MsoNormal" style="font-family: Arial, Helvetica, sans-serif; text-align: center">
-<table align="center" border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-width: 0">
-	<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">
-		<td class="auto-style12" style="border-style: solid; border-color: windowtext; width: 761pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 78px;" valign="top">
-		<a href="index.html">
-		<img alt="" class="auto-style14" height="137" src="MasterPage/Images/Header1_xmas.png" width="1050" /></a></td>
-	</tr>
-</table>
-</p>
+<img alt="" class="auto-style14" height="145" src="MasterPage/Images/Header1_xmas.png" width="1100" />&nbsp;</p>
 <p class="MsoNormal" style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: large; color: #FFFFFF">
 <strong><span class="auto-style11">&nbsp;A site of software, hardware and more. 
 Tutorials to small electronic projects as well as mathematical guides. Welcome 
