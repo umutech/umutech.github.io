@@ -53,7 +53,6 @@ table.MsoTableGrid
 }
 .auto-style12 {
 	border-width: 0;
-	text-align: center;
 }
 .auto-style13 {
 	border-width: 0px;
@@ -102,7 +101,7 @@ function FP_getObjectByID(id,o) {//v1.0
 	<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">
 		<td class="auto-style12" style="border-style: solid; border-color: windowtext; width: 848pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 78px;" valign="top">
 		<a href="index.html">
-		<img alt="" class="auto-style14" height="91" src="MasterPage/Images/Header1_xmas.png" width="700" /></a></td>
+		<img alt="" class="auto-style14" height="130" src="MasterPage/Images/Header1_xmas.png" width="1000" /></a></td>
 	</tr>
 </table>
 </p>
