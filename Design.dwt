@@ -37,6 +37,7 @@ table.MsoTableGrid
 	font-family: Arial, Helvetica, sans-serif;
 	border-top-color: inherit;
 	border-top-width: 1px;
+	text-align: center;
 }
 .auto-style9 {
 	text-align: center;
@@ -48,42 +49,71 @@ table.MsoTableGrid
 	background-color: #FFFFFF;
 }
 .auto-style11 {
-	background-color: #FFFFFF;
+	background-color: #000000;
 }
 .auto-style12 {
 	border-width: 0;
+	text-align: center;
 }
 .auto-style13 {
 	border-width: 0px;
 }
-.auto-style16 {
-	color: #000000;
-}
-.auto-style19 {
-	text-decoration: none;
+.auto-style14 {
+	border-width: 0px;
+	vertical-align: middle;
 }
 </style>
+<script type="text/javascript">
+<!--
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_swapImgRestore() {//v1.0
+ var doc=document,i; if(doc.$imgSwaps) { for(i=0;i<doc.$imgSwaps.length;i++) {
+  var elm=doc.$imgSwaps[i]; if(elm) { elm.src=elm.$src; elm.$src=null; } } 
+  doc.$imgSwaps=null; }
+}
+
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
 </head>
 
-<body style="background-image: url('MasterPage/Images/background.png')">
+<body style="background-image: url('MasterPage/Images/background_xmas.png')" onload="FP_preloadImgs(/*url*/'MasterPage/Click Over/about_yes.png',/*url*/'MasterPage/Click Over/blog_yes.png',/*url*/'MasterPage/Click Over/projects yes.png',/*url*/'MasterPage/Click Over/XEB_yes.png',/*url*/'MasterPage/Click Over/subtut_yes.png')">
 
 <p class="MsoNormal" style="font-family: Arial, Helvetica, sans-serif; text-align: center">
 <table align="center" border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-width: 0">
 	<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">
 		<td class="auto-style12" style="border-style: solid; border-color: windowtext; width: 848pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 78px;" valign="top">
 		<a href="index.html">
-		<img alt="" class="auto-style13" height="149" src="MasterPage/Images/Header1.png" width="1140" /></a></td>
+		<img alt="" class="auto-style14" height="91" src="MasterPage/Images/Header1_xmas.png" width="700" /></a></td>
 	</tr>
 </table>
 </p>
-<p class="MsoNormal" style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: large; color: #000000">
+<p class="MsoNormal" style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: large; color: #FFFFFF">
 <strong><span class="auto-style11">&nbsp;A site of software, hardware and more. 
 Tutorials to small electronic projects as well as mathematical guides. Welcome 
-to UmuTech! </span></strong><o:p></o:p></p>
+to UmuTech!&nbsp; </span></strong><o:p></o:p></p>
 <p class="MsoNormal">
 <table align="center" border="1" cellpadding="0" cellspacing="0" class="MsoTableGrid" style="border-style: solid; margin-top: 0px">
 	<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
-		<td class="auto-style7" style="border-style: solid; border-color: windowtext; width: 134pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 17px;" valign="top">
+		<td class="auto-style7" style="border-style: solid; border-color: windowtext; width: 138pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 17px;" valign="top">
 		<strong>Navigation</strong></td>
 		<td rowspan="3" style="width: 692pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; border-left-color: inherit; border-right-style: solid; border-right-color: windowtext; border-top-style: solid; border-top-color: windowtext; border-bottom-style: solid; border-bottom-color: windowtext;" valign="top" class="auto-style10">
 		<p class="MsoNormal" style="font-family: Arial, Helvetica, sans-serif; height: 38px; font-size: xx-large;">
@@ -108,17 +138,24 @@ to UmuTech! </span></strong><o:p></o:p></p>
 		</td>
 	</tr>
 	<tr style="mso-yfti-irow: 1">
-		<td style="width: 134pt; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; height: 267px; " valign="top" class="auto-style8">
-		<img alt="" height="13" src="MasterPage/Images/ezgif.com-crop.gif" width="12" />
-		<strong><span class="auto-style16">
-		<a href="index.html" class="auto-style19">
-		Home Page</a></span><br />
-		<img alt="" height="13" src="MasterPage/Images/ezgif.com-crop.gif" width="12" />
-		<a class="auto-style19" href="con_edit.html">SystemAccess_XEB</a><br />
+		<td style="width: 138pt; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; height: 267px; " valign="top" class="auto-style8">
+		<br />
+		<strong>
+		<a href="index.html">
+		<img id="img1" alt="" height="56" onmouseout="FP_swapImgRestore()" onmouseover="FP_swapImg(1,1,/*id*/'img1',/*url*/'MasterPage/Click Over/home_yes.png')" src="MasterPage/Click%20Over/Home_no.png" width="170" class="auto-style13" /></a><br />
+		<a href="nf404.html">
+		<img id="img2" alt="" height="56" onmouseout="FP_swapImgRestore()" onmouseover="FP_swapImg(1,1,/*id*/'img2',/*url*/'MasterPage/Click Over/blog_yes.png')" src="MasterPage/Click%20Over/blog_no.png" width="170" class="auto-style13" /></a><br />
+		<a href="nf404.html">
+		<img id="img3" alt="" height="56" onmouseout="FP_swapImgRestore()" onmouseover="FP_swapImg(1,1,/*id*/'img3',/*url*/'MasterPage/Click Over/about_yes.png')" src="MasterPage/Click%20Over/about_no.png" width="170" class="auto-style13" /></a><br />
+		<a href="nf404.html">
+		<img id="img4" alt="" height="56" onmouseout="FP_swapImgRestore()" onmouseover="FP_swapImg(1,1,/*id*/'img4',/*url*/'MasterPage/Click Over/projects yes.png')" src="MasterPage/Click%20Over/projects_no.png" width="170" class="auto-style13" /><img id="img5" alt="" height="56" onmouseout="FP_swapImgRestore()" onmouseover="FP_swapImg(1,1,/*id*/'img5',/*url*/'MasterPage/Click Over/XEB_yes.png')" src="MasterPage/Click%20Over/XEB_no.png" width="170" class="auto-style13" /></a><br />
+		<a href="nf404.html">
+		<img id="img6" alt="" height="48" onmouseout="FP_swapImgRestore()" onmouseover="FP_swapImg(1,1,/*id*/'img6',/*url*/'MasterPage/Click Over/subtut_yes.png')" src="MasterPage/Click%20Over/subtut_no.png" width="170" /></a><br />
+		<br />
 		</strong></td>
 	</tr>
 	<tr style="mso-yfti-irow:2">
-		<td style="width: 134pt; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 304px; border-top-color: inherit; border-left-style: solid; border-left-color: windowtext; border-right-style: solid; border-right-color: windowtext; border-bottom-style: solid; border-bottom-color: windowtext;" valign="top" class="auto-style9">
+		<td style="width: 138pt; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 304px; border-top-color: inherit; border-left-style: solid; border-left-color: windowtext; border-right-style: solid; border-right-color: windowtext; border-bottom-style: solid; border-bottom-color: windowtext;" valign="top" class="auto-style9">
 		<a href="http://youtube.com/tech2roll">
 		<img alt="" class="auto-style13" height="345" src="MasterPage/Images/side_yt.png" width="185" /></a></td>
 	</tr>
