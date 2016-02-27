@@ -1,28 +1,13 @@
 ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 
-<!-- #BeginTemplate "offline_Mod.dwt" -->
-
 <head>
 <meta content="en-gb" http-equiv="Content-Language" />
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <!-- #BeginEditable "doctitle" -->
 <title>Site Currenty offline until furt</title>
-<style type="text/css">
-
-
-.auto-style3 {
-	font-family: "Times New Roman", Times, serif;
-	text-align: center;
-}
-.auto-style4 {
-	font-family: "Times New Roman", Times, serif;
-	text-align: center;
-}
-</style>
 <!-- #EndEditable -->
 <style type="text/css">
-
 .auto-style1 {
 	text-align: center;
 }
@@ -53,17 +38,13 @@ table.MsoTableGrid
 	</tr>
 	<tr style="mso-yfti-irow: 2; mso-yfti-lastrow: yes">
 		<td style="border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; width: 265pt; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; border-top-style: none; border-top-color: inherit; border-top-width: medium;" valign="top">
-		<p class="auto-style4">
-		<o:p><!-- #BeginEditable "Normal" -->
-		[<strong>Offline] </strong><em><a href="physics.html">Click here for 
-		Physics Revision</a></em><!-- #EndEditable --></o:p>&nbsp;</p>
+		<p class="auto-style2">
+		<o:p><!-- #BeginEditable "Normal" -->Test&nbsp;<!-- #EndEditable --></o:p>&nbsp;</p>
 		</td>
 	</tr>
 </table>
 </p>
 
 </body>
-
-<!-- #EndTemplate -->
 
 </html>
