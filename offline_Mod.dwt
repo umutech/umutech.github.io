@@ -21,7 +21,21 @@ table.MsoTableGrid
 	text-align: left;
 }
 .auto-style3 {
+	border-width: 0px;
 	vertical-align: middle;
+}
+.auto-style4 {
+	text-align: left;
+}
+.auto-style6 {
+	font-family: "Times New Roman", Times, serif;
+	border-left: 1.0pt solid windowtext;
+	border-right: 1.0pt solid windowtext;
+	border-top-style: none;
+	border-top-color: inherit;
+	border-top-width: medium;
+	border-bottom: 1.0pt solid windowtext;
+	padding: 0cm 5.4pt;
 }
 </style>
 </head>
@@ -31,16 +45,23 @@ table.MsoTableGrid
 <p class="auto-style1">
 <table align="center" border="1" cellpadding="2" class="MsoTableGrid" style="border-style: none; border-color: inherit; border-width: medium; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; background-color: #FFFFFF;">
 	<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
-		<td style="width: 265pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt" valign="top">
+		<td style="border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt" valign="top" colspan="2">
 		<p style="width: 354px">
-		<img alt="" height="95" src="Logo.png" width="352" class="auto-style3" /></p>
+		<a href="index.html">
+		<img alt="" height="95" src="Logo.png" width="352" class="auto-style3" /></a></p>
 		</td>
 	</tr>
 	<tr style="mso-yfti-irow: 2; mso-yfti-lastrow: yes">
-		<td style="border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; width: 265pt; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; border-top-style: none; border-top-color: inherit; border-top-width: medium;" valign="top">
+		<td style="border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; width: 757pt; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; border-top-style: none; border-top-color: inherit; border-top-width: medium;" valign="top">
 		<p class="auto-style2">
 		<o:p><!-- #BeginEditable "Normal" -->Test&nbsp;<!-- #EndEditable --></o:p>&nbsp;</p>
 		</td>
+		<td style="border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; width: 757pt; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; border-top-style: none; border-top-color: inherit; border-top-width: medium;" valign="top" class="auto-style4">
+		<!-- #BeginEditable "Test2" -->Test_2<!-- #EndEditable --></td>
+	</tr>
+	<tr style="mso-yfti-irow: 2; mso-yfti-lastrow: yes">
+		<td style="mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; " valign="top" colspan="2" class="auto-style6">
+		<strong>Copyright </strong>&copy; UmuTech Electronics 2016</td>
 	</tr>
 </table>
 </p>
